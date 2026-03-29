@@ -28,7 +28,7 @@ export default function HeroSection() {
             Est. 1893 · Accredited Institution
           </span>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
-            Discover Your Potential.{' '}
+            This is the newly updated line.{' '}
             <span className="text-yellow-400 font-serif italic">Shape the Future.</span>
           </h1>
           <p className="text-lg text-gray-300 leading-relaxed mb-10 max-w-2xl">
