@@ -25,10 +25,10 @@ export default function HeroSection() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-28 pb-16">
         <div className="max-w-3xl animate-fade-in-up">
           <span className="inline-block border border-yellow-500 text-yellow-400 text-xs font-semibold tracking-widest uppercase px-4 py-1 rounded-full mb-6">
-            now this is updated
+            Est. 1893 · Accredited Institution
           </span>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
-            This is the newly updated line.{' '}
+            Central Institute of technology.{' '}
             <span className="text-yellow-400 font-serif italic">Shape the Future.</span>
           </h1>
           <p className="text-lg text-gray-300 leading-relaxed mb-10 max-w-2xl">
